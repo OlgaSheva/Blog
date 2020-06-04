@@ -3,7 +3,7 @@
     /// <summary>
     /// Represents a context for article domain.
     /// </summary>
-    public interface IArticleContext
+    public interface IArticleContext : IAsyncEntityStorage
     {
         /// <summary>
         /// Gets a set of <see cref="Article"/> entities.

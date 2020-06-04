@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Blog.DataAccess
+namespace Blog.DataAccess.Articles
 {
     /// <summary>
     /// Represents an article.
